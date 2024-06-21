@@ -1,0 +1,6 @@
+namespace MidREST.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
